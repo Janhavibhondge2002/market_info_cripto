@@ -1,0 +1,38 @@
+.card-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width: 200px;
+    height: 200px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .heading {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 10px auto;
+  }
+  
+  .text-container {
+    margin-top: auto;
+  }
+  
+  .text-container p {
+    margin: 5px 0;
+  }
+  
