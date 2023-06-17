@@ -11,7 +11,7 @@ const Block = () => {
         <h3>22,027.06</h3>
       </div>
       <div className="block">
-        <h1>21887.63 USDT</h1>
+        <h1>217.63 USDT</h1>
         <img src="marketf4.png" alt="Image 2" />
         <h2>BMX/USDT</h2>
         <h4>0.12523</h4>
